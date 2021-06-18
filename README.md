@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/frontend-challenge-junior/blob/master/src/assets/logo/logo.png" alt="logo" height="60"/>
+  <img src="https://github.com/gustavo-nt/gnt-zoo/blob/master/src/assets/logo/logo.png" alt="logo" height="60"/>
 </h4>
 
 <h1 align="center">
@@ -39,7 +39,7 @@
 Landing Page para apoiar as causas animais, diminuir o impacto gerado pelo contrabando e tráfico de animais silvestres, e conscientizar as pessoas a salvarem "vidas". Aplicação realizada como teste técnico da [Vnda](https://www.vnda.com.br/).  
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/frontend-challenge-junior/blob/master/src/assets/home.png" />
+<img src="https://github.com/gustavo-nt/gnt-zoo/blob/master/src/assets/home.png" />
 
 ### ⚙ Pré-requisitos
 
@@ -50,7 +50,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gustavo-nt/frontend-challenge-junior
+$ git clone https://github.com/gustavo-nt/gnt-zoo
 
 # Instale as dependências
 $ npm
