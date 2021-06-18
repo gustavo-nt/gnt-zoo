@@ -79,10 +79,6 @@ Esse projeto foi utilizou das seguintes lib:
 - node-sass
 - swiper-js
 
-### ⚖ Direitos
-
-Todos direitos são reservados a Vnda.
-
 ### 📝 Licença
 
 Esse projeto está sob a licença MIT.
