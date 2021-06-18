@@ -36,7 +36,7 @@
 
 ### 💻 Projeto
 
-Landing Page para apoiar as causas animais, diminuir o impacto gerado pelo contrabando e tráfico de animais silvestres, e conscientizar as pessoas a salvarem "vidas". Aplicação realizada como teste técnico da [Vnda](https://www.vnda.com.br/).  
+Landing Page para apoiar as causas animais, diminuir o impacto gerado pelo contrabando e tráfico de animais silvestres, e conscientizar as pessoas a salvarem "vidas".
 
 ### ✅ Demonstração
 <img src="https://github.com/gustavo-nt/gnt-zoo/blob/master/src/assets/home.png" />
