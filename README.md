@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-    🚀 Desafio Técnico - Vnda
+    🚀 Desafio Técnico
 </h1>
 
 <p align="center">Aplicação desenvolvida para fins técnicos</p>
